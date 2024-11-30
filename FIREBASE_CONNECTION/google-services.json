@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "665966558461",
+    "project_id": "youmnac-3699b",
+    "storage_bucket": "youmnac-3699b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665966558461:android:a99a2f24a2c089d0bfd294",
+        "android_client_info": {
+          "package_name": "com.app.youmnac"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNQaAuQANDfeiaDqd61y1JcJooIwGkbMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
